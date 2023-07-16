@@ -1,0 +1,11 @@
+.backgroundImg{
+    background-image: url('https://qph.cf2.quoracdn.net/main-qimg-f5a89b881a599e0b118a6801dcee02f0');
+    text-align: center;
+   background-repeat: no-repeat;
+   background-size:cover;
+   margin-top: 20px;
+}
+
+.newImage{
+background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/df7bbd111202195.5ffdfc0edba8f.gif');
+}

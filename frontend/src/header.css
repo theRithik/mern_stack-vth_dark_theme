@@ -1,0 +1,63 @@
+.navbar{
+    background-image: radial-gradient( circle 263px at 100.2% 3%,  rgba(12,85,141,1) 31.1%, rgba(205,181,93,1) 36.4%, rgba(244,102,90,1) 50.9%, rgba(199,206,187,1) 60.7%, rgba(249,140,69,1) 72.5%, rgba(12,73,116,1) 72.6% );
+    color: white;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 0px;
+}
+.navbar-brand{
+    color: white;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.navbar-brand:hover{
+    color: white;
+}
+
+.loginTab{
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 13%;
+  display: none;
+   position: absolute;
+  right: 0%;
+  top:90%;
+  padding: 10px;
+  display: none;
+  background-image: linear-gradient(90deg, rgb(220, 235, 237), rgb(230, 236, 236));
+  transition-timing-function: ease-in;
+}
+
+
+.loginTab1{
+    padding: 10px;
+    margin-bottom: 0;
+    background: transparent;
+    border-radius: 5px;
+}
+
+.loginTab1:hover{
+    background-color: transparent;
+    box-shadow: 0 0 5px ;
+    transition: .2s;
+}
+
+.hoverTab{
+   position: absolute;
+   top:-10%;
+   right: 37%; 
+    width: 10px;
+    border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-bottom: 25px solid rgb(220, 235, 237)
+}
+.material-symbols-outlined{
+    cursor:pointer;
+    margin-top: 3px;
+}
+#themeIcon1:hover{
+    background-color: grey;
+    border-radius: 20px;
+    background-size: 50px;
+}

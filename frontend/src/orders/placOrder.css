@@ -1,0 +1,16 @@
+.panel{
+    background-color: rgb(96, 237, 183);
+    height: 120px;
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 16%;
+    border-radius: 10px 10px 0 0 ;
+    padding-top: 20px;
+}
+
+.orders{
+    margin-top: 40px;
+    margin-bottom: 20px;
+   
+}
+

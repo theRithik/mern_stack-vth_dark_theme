@@ -1,0 +1,35 @@
+.filter{
+    border: 4px solid rgb(68, 67, 67);
+    border-radius: 20px;
+    height:550px;
+    margin-left: 40px;
+}
+
+#listingCard{
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    
+    
+    
+}
+
+ .cost-filter{
+    padding: 10px;
+    padding-top: 0;
+    margin: 5px;
+} 
+
+ .form-check-input{
+ padding: 8px 25px 8px 8px;
+ margin-right: 5px;
+}
+
+.form-check-label{
+    margin-top: 0px;
+    padding-left: 5px;
+}
+.form-switch{
+    margin-left: 20px;
+
+}
+        

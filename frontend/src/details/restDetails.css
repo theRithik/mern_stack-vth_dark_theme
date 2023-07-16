@@ -1,0 +1,31 @@
+.review{
+    color:blue;
+    font-size: 12px;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.price{
+    margin-top: 20px;
+    /* text-decoration: line-through; */
+    margin-bottom: 2px;
+    
+}
+
+.offer{
+    color: green;
+    font-size: 25px;
+
+}
+
+.sanitize{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+}
+
+#restBack{
+    background-image: url('https://qph.cf2.quoracdn.net/main-qimg-f5a89b881a599e0b118a6801dcee02f0');
+    background-repeat:no-repeat
+}
